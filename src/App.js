@@ -1,19 +1,16 @@
 import React from 'react'
 import About from './components/About'
-import Contact from './components/Contact'
-import Footer from './components/Footer'
-import Header from './components/Header'
 
-import Resume from './components/Resume'
+import Header from './components/Header'
+import Portfolio from './components/Portfolio'
+
 
 function App() {
   return <div>
     <Header />
     <About />
-   
-    <Contact />
-    <Resume />
-    <Footer />
+    <Portfolio />
+    
   </div>
 }
 
