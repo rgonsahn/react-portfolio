@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/robina-react/static/css/main.b2cce3e1.css",
-    "main.js": "/robina-react/static/js/main.b26bb8b9.js",
-    "static/js/787.4fe2bf0a.chunk.js": "/robina-react/static/js/787.4fe2bf0a.chunk.js",
-    "static/media/logo.jpeg": "/robina-react/static/media/logo.36dbdcde4b93285ab4f6.jpeg",
-    "index.html": "/robina-react/index.html",
-    "main.b2cce3e1.css.map": "/robina-react/static/css/main.b2cce3e1.css.map",
-    "main.b26bb8b9.js.map": "/robina-react/static/js/main.b26bb8b9.js.map",
-    "787.4fe2bf0a.chunk.js.map": "/robina-react/static/js/787.4fe2bf0a.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.b2cce3e1.css",
+    "main.js": "/react-portfolio/static/js/main.37ff6657.js",
+    "static/js/787.4fe2bf0a.chunk.js": "/react-portfolio/static/js/787.4fe2bf0a.chunk.js",
+    "static/media/logo.jpeg": "/react-portfolio/static/media/logo.36dbdcde4b93285ab4f6.jpeg",
+    "index.html": "/react-portfolio/index.html",
+    "main.b2cce3e1.css.map": "/react-portfolio/static/css/main.b2cce3e1.css.map",
+    "main.37ff6657.js.map": "/react-portfolio/static/js/main.37ff6657.js.map",
+    "787.4fe2bf0a.chunk.js.map": "/react-portfolio/static/js/787.4fe2bf0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2cce3e1.css",
-    "static/js/main.b26bb8b9.js"
+    "static/js/main.37ff6657.js"
   ]
 }
